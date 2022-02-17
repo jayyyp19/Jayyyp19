@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyyp19&label=Profile%20views&color=0e75b6&style=flat" alt="jayyyp19" /> </p>
 
+
 - 🌱 I’m currently learning **React.JS**
 
 - 🤝Have a look at my [portfolio](https://jayyyp19.github.io/portfolio/)
@@ -13,7 +14,8 @@
 
 - 📫 How to reach me **Jayyyp2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L0LksR0xqgZGgz7Cmiwo3iLtFr2-V0Hd/view?usp=sharing](https://drive.google.com/file/d/1L0LksR0xqgZGgz7Cmiwo3iLtFr2-V0Hd/view?usp=sharing)
+
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1L0LksR0xqgZGgz7Cmiwo3iLtFr2-V0Hd/view?usp=sharing)
 
 - ⚡ Fun fact **I love playing chess and Badminton**
 
