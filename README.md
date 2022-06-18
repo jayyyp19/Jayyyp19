@@ -15,7 +15,7 @@
 - 📫 How to reach me **Jayyyp2001@gmail.com**
 
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1JzUwe4m7PEwBQ17Jzl6xqmxeSFis26-P/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Kr7o-tkocOVj0KBEefrKhvHe5gRXymUM/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love playing chess and Badminton**
 
