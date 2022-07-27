@@ -4,18 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyyp19&label=Profile%20views&color=brightgreen&style=flat" alt="jayyyp19" /> </p>
 
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **PHP**
 
 - 🤝Have a look at my [portfolio](https://jayyyp19.github.io/portfolio/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayyyp19](https://github.com/jayyyp19)
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **HTML, CSS, JS, Mysql and PHP**
 
 - 📫 How to reach me **Jayyyp2001@gmail.com**
 
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Kr7o-tkocOVj0KBEefrKhvHe5gRXymUM/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/16nMHsUlzXB2QTIg38wHVRAEBIMLHelnE/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love playing chess and Badminton**
 
