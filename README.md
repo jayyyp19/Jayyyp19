@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyyp19&label=Profile%20views&color=brightgreen&style=flat" alt="jayyyp19" /> </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f0bffedb-99e4-4606-9d4e-3ab7a3d27275/deploy-status)](https://app.netlify.com/sites/task-trackerrs/deploys)
 
 
 - 🌱 I’m currently learning **PHP**
