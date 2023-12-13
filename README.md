@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyyp19&label=Profile%20views&color=brightgreen&style=flat" alt="jayyyp19" /> </p>
 
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **MERN**
 
 - 🤝Have a look at my [portfolio](https://jayyyp19.github.io/portfolio/)
 
