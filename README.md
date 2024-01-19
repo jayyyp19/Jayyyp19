@@ -10,12 +10,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayyyp19](https://github.com/jayyyp19)
 
-- 💬 Ask me about **HTML, CSS, JS, Mysql and PHP**
+- 💬 Ask me about **Java,Spring,SpringBoot,Database,Hibernate,NativeQuerys**
 
 - 📫 How to reach me **Jayyyp2001@gmail.com**
 
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/16nMHsUlzXB2QTIg38wHVRAEBIMLHelnE/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1lXb-8R4VinOx3kJ7gFuJIOyvkpbiuvXE/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love playing chess and Badminton**
 
