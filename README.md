@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝Have a look at my [portfolio](https://jayyyp19.github.io/portfolio/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayyyp19](https://github.com/jayyyp19)
 
