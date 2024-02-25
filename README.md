@@ -4,10 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyyp19&label=Profile%20views&color=brightgreen&style=flat" alt="jayyyp19" /> </p>
 
 
-- 🌱 I’m currently learning **MERN**
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/jayyyp19](https://github.com/jayyyp19)
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Java,Spring,SpringBoot,Database,Hibernate,NativeQuerys**
 
